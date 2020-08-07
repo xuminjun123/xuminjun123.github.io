@@ -36,7 +36,9 @@ module.exports = {
                 {
                     title: 'vue教程',
                     collapsable: true, // 不可折叠
-                    children: ['view/vue3', 'view/vuex', 'view/vuecli']
+                    children: ['view/vueStu', 'view/set', 'view/ref',
+                        'view/vue3', 'view/vuex', 'view/vuecli'
+                    ]
                 },
                 {
                     title: 'node教程',
